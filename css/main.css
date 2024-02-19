@@ -5499,6 +5499,7 @@ button.free__but:hover {
   z-index: 1;
   height: 60px;
   font-size: 12px;
+  width: 85px;
   }
   .current-valuer img {
     width: 12px;
@@ -5520,6 +5521,7 @@ button.free__but:hover {
   -ms-flex-pack: center;
   justify-content: center;
   align-items: center;
+  margin-right: 5px;
   }
   .value-wrapr img {
     width: 23px;
